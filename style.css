@@ -1,0 +1,36 @@
+﻿h1 {
+    color: blue;
+    background-color: red
+}
+
+h2 {
+    color: green;
+    background-color: yellow
+}
+
+h3 {
+    color: red;
+    background-color: aqua
+}
+
+p {
+    color: black;
+    background-color: greenyellow;
+    font-family: 'Segoe UI Variable Text','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-seriftahoma, Geneva;
+}
+#parrafoM {
+    color: greenyellow;
+    background-color: lightsalmon;
+    font-family: 'Curlz MT',Algerian,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,Arial,Jokerman,12;
+}
+input{background-color:gainsboro}
+
+
+button{
+    color:indianred;
+    background-color:darkslategray;
+}
+button {
+    color: aqua;
+    background-color:coral;
+}
