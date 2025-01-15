@@ -1,0 +1,115 @@
+﻿h1 {
+    color: blue;
+    background-color: red
+}
+
+h2 {
+    color: green;
+    background-color: yellow
+}
+
+h3 {
+    color: red;
+    background-color: aqua
+}
+
+p {
+    color: black;
+    background-color: greenyellow;
+    font-family: 'Segoe UI Variable Text','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-seriftahoma, Geneva;
+}
+#parrafoM {
+    color: greenyellow;
+    background-color: lightsalmon;
+    font-family: 'Curlz MT',Algerian,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,Arial,Jokerman,12;
+}
+input{background-color:gainsboro}
+
+
+button{
+    color:indianred;
+    background-color:darkslategray;
+}
+button {
+    color: aqua;
+    background-color:coral;
+}
+
+.casilla_1{
+    width:99px; /*largo*/
+    height:15px; /*ancho*/
+    background-color:lightgreen;
+    border-radius: 15%;
+}
+
+.casilla_2 {
+    width: 99px; /*largo*/
+    height: 15px; /*ancho*/
+    background-color: lightgreen;
+    border-radius: 15%;
+}
+
+.boton_Sumar {
+    background-color: indianred;
+    border-radius: 15%;
+}
+.boton_restar {
+    background-color: indianred;
+    border-radius: 15%;
+}
+.boton_multiplicar {
+    background-color: indianred;
+    border-radius: 15%;
+}
+.boton_dividir {
+    background-color: indianred;
+    border-radius: 15%;
+}
+.boton_7 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_8 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_9 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_4 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_5 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_6 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_1{
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_2 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_3 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_0 {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_c {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
+.boton_igual {
+    background-color: mediumseagreen;
+    border-radius: 15%;
+}
